@@ -12,9 +12,9 @@
 ```js
     var bio = {
         name = "Thales Souza";
-        pronouns = "He/Him 👨🏻‍💻"
+        pronouns = "He/Him 👨🏻‍💻";
         age = 25;
-        college = "Not CS related 🐈"
+        college = "Not CS related 🐈";
     }
 ```
 I'm a brazilian student, living in Andradas, Minas Gerais, Brazil.
