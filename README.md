@@ -4,7 +4,7 @@
 <p align="center">
     <img src="hello.gif" width=200px><br>
     <a href="https://thales.live">Website</a> |
-    <a href="https://twitter.com/thaleslive_">Twitter</a> |
+    <a href="https://twitter.com/thalesio">Twitter</a> |
     <a href="https://www.linkedin.com/in/thales-boneli-de-souza-9a6813135/">LinkedIn</a>
 </p>
 
@@ -14,7 +14,7 @@
         name = "Thales Souza";
         pronouns = "He/Him 👨🏻‍💻";
         age = 25;
-        college = "Not CS related 🐈";
+        college = "Computer Science 50 aka CS50x from Harvard 🐈";
     }
 ```
 I'm a brazilian student, living in Andradas, Minas Gerais, Brazil.
