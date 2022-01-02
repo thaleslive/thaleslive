@@ -11,10 +11,10 @@
 ---
 ```js
     const bio = {
-        name = "Thales Souza",
-        pronouns = "He/Him 👨🏻‍💻",
-        age = 25,
-        college = "Computer Science 50 aka CS50x from Harvard 🐈"
+        name: "Thales Souza",
+        pronouns: "He/Him 👨🏻‍💻",
+        age: 25,
+        college: "Computer Science 50 aka CS50x from Harvard 🐈"
     }
 ```
 I'm a brazilian student, living in Andradas, Minas Gerais, Brazil.
