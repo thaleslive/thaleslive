@@ -4,7 +4,7 @@
 <p align="center">
     <img src="hello.gif" width=200px><br>
     <a href="https://thales.live">Website</a> |
-    <a href="https://twitter.com/thalesio">Twitter</a> |
+    <a href="https://twitter.com/uaicode">Twitter</a> |
     <a href="https://www.linkedin.com/in/thales-boneli-de-souza-9a6813135/">LinkedIn</a>
 </p>
 
