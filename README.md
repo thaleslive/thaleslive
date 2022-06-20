@@ -21,7 +21,7 @@ I'm a brazilian software developer, living in Andradas, Minas Gerais, Brazil.
 
 I'm a veterinarian and decided to change my career when I was in my last bachelor's period. I'm currently working for [Intelbras](https://www.intelbras.com/en)
 
-My 9-to-5 job requires me to create some web applications and IoT/embbeded systems and I learn a lot doing those softwares
+My 9-to-5 job requires me to create some web applications and IoT/embedded systems and I learn a lot doing those softwares
 After that, in my spare time, I like to go deep in some concepts about software developement and learn more about the tool I'm using (currently Go and TypeScript) and also some SwiftUI things.
 
 I've participated in Small Animals Study Group for my bachelor's degree, I like a lot of being part of a community, and I'm always looking to help the open source community.
